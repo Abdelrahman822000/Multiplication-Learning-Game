@@ -33,7 +33,7 @@ The Multiplication Learning Game is a C++ console application designed to help u
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Multiplication-Learning-Game.git
+    git clone https://github.com/Abdelrahman822000/Multiplication-Learning-Game.git
     cd Multiplication-Learning-Game
     ```
 
